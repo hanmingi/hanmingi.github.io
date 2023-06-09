@@ -27,7 +27,7 @@ SHELL : zsh
 <br>
 
 <span style="color:LightCoral; font-size:80%">
-# 위 사진은 이미 Repository가 존재하기 때문에 에러가 발생한다.
+위 사진은 이미 Repository가 존재하기 때문에 에러가 발생한다.
 </span>
 
 
@@ -83,8 +83,9 @@ $ rbenv global 3.0.6    // 글로벌 버전 변경
 ```
 <img width="568" alt="image" src="https://github.com/hanmingi/hanmingi.github.io/assets/22022390/8966c4f8-27a6-4287-8f51-f78721cac2e5">
 <br>
+
 <span style="color:LightCoral; font-size:80%">
-# 위 사진은 3.0.6 버전을 설치한 후 global 설정 변경한 사진
+위 사진은 3.0.6 버전을 설치한 후 global 설정 변경한 사진
 </span>
 <br><br>
 위처럼 루비 버전을 확인해보면 system이 아닌 rbenv를 통해 설치한 루비 버전으로 변경되어있다.
