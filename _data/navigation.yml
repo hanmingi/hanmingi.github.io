@@ -14,3 +14,7 @@ main:
     url: "/categories/"
   - title: "Tags"
     url: /tags/
+  - title: "사이드바1"
+    url: "/Category1"
+  - title: "사이드바2"
+    url: "/Category2"
