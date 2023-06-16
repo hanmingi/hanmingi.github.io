@@ -1,7 +1,7 @@
 ---
-title: "[GitHub.io] GitHub [블로그 생성부터 테마 적용까지] - Mac M1 Pro"
+title: "[BLOG] GitHub [블로그 생성부터 테마 적용까지] - Mac M1 Pro"
 categories:
-    - github.io
+    - blog
 
 tags:
     - minimal mistakes

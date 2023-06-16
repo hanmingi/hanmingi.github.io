@@ -290,6 +290,8 @@ defaults:
       comments: true # true
       share: true
       related: true
+      sidebar:                  #카테고리추가
+        nav: "sidebar-category" #카테고리추가
   # _pages
   - scope:
       path: "_pages"
