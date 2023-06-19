@@ -576,3 +576,8 @@ body {
     }
   }
 }
+
+// 댓글 기능 width 100% 넒이 적용
+.utterances {
+  max-width: 100% !important;
+}
