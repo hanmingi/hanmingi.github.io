@@ -9,12 +9,21 @@ main:
 
 # 사이드바 추가
 sidebar-category:
-  - title: "카테고리"
+  - title: "Programming 💻"
     children:
-      - title: "블로그"
-        url: "/blog"
-      - title: "카테고리B"
-        url:  "/CategoryB"
-      - title: "카테고리C"
-        url:  "/CategoryC"
+      - title: "알고리즘"
+        url:  "/algorithm"
+      - title: "Spring"
+        url:  "/spring"
+  - title: "C.S"
+    children:
+      - title: "CS(tmp)"
+        url: "/cs"
 
+  - title: "ETC 📌"
+    children:
+      - title: "Blog"
+        url: "/blog"
+      - title: "Github"
+        url: "/git"
+      - title: ""
