@@ -24,6 +24,7 @@ sidebar-category:
     children:
       - title: "Blog"
         url: "/blog"
-      - title: "Github"
+      - title: "Git"
         url: "/git"
-      - title: ""
+      - title: "Markdown"
+        url: "/markdown"
