@@ -41,7 +41,7 @@ Repo를 로컬로 복사하는 방법은 크게 두가지가 있다.
 ```
 <br><br>
 터미널을 연 후 아래의 명령어를 입력하여 본인이 만든 Repo를 가져온다.
-```terminal
+```shell
 git clone https://github.com/[userid]/[userid].github.io.git
 ```
 
@@ -52,7 +52,7 @@ Github Blog 테마를 적용하기 위해선 ruby와 jekyll를 설치해야한�
 
 맥은 기본적으로 시스템 ruby를 사용하고 있다.
 
-```terminal
+```shell
 * 루비 버전확인 명령어
 ruby -v
 ```
@@ -64,20 +64,20 @@ rbenv라는 ruby version 관리자를 통해 여러 루비 버전을 확인 및 
 시스템 루비를 사용하지 않고 rbenv를 사용하여 jekyll를 설치할 수 있다.
 
 먼저 homebrew를 통해 rbenv를 설치한다.
-```terminal
+```shell
 $ brew install rbenv
 ```
 <br>
 
 rbenv가 설치 완료 되었다면 아래 명령어를 통해 버전을 확인해보자
-```terminal
+```shell
 $ rbenv versions
 ```
 
 <br>
 이제 jekyll 설치에 필요한 ruby를 설치한 rbenv를 사용하여 설치해보자
 
-```terminal
+```shell
 $ rbenv install 3.0.6   // 3.0.6 버전 설치
 $ rbenv global 3.0.6    // 글로벌 버전 변경
 ```
