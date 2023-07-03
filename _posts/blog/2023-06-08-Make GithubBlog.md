@@ -15,9 +15,7 @@ toc_label: "Make GitHub.io"
 toc_icon: "rss"
 ---
 
-📌 작성자 개발 환경 
-OS : Mac M1 PRO // 
-SHELL : zsh
+📌 작성자 개발 환경 Mac M1 PRO / ZSH
 {: .notice--primary}
 
 ## [01] Github Repository 생성

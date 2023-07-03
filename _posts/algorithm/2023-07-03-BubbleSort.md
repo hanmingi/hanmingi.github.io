@@ -15,7 +15,6 @@ toc_label: "summary"
 toc_icon: "keyboard"
 ---
 
-📌 작성자 개발 환경
-OS : Mac M1 PRO
+📌 작성자 개발 환경 Mac M1 PRO
 {: .notice--primary}
 
