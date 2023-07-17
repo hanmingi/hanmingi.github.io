@@ -11,7 +11,7 @@ main:
 sidebar-category:
   - title: "Programming 💻"
     children:
-      - title: "알고리즘"
+      - title: "Algorithm"
         url:  "/algorithm"
       - title: "Spring"
         url:  "/spring"

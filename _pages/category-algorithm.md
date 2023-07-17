@@ -1,5 +1,5 @@
 ---
-title: "algorithm"
+title: "Algorithm"
 layout: archive
 permalink: /algorithm
 sidebar:
