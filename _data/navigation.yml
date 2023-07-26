@@ -15,6 +15,9 @@ sidebar-category:
         url:  "/algorithm"
       - title: "Spring"
         url:  "/spring"
+      - title: "Spring Boot"
+        url:  "/springboot"
+
   - title: "C.S"
     children:
       - title: "CS(tmp)"
@@ -22,9 +25,9 @@ sidebar-category:
 
   - title: "ETC 📌"
     children:
+      - title: "For Mac"
+        url: "/mac"
       - title: "Blog"
         url: "/blog"
-      - title: "Git"
-        url: "/git"
       - title: "Markdown"
         url: "/markdown"
