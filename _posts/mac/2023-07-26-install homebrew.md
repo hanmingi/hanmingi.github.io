@@ -114,7 +114,7 @@ brew cleanup [패키지명]     # 최신버전 이외에 모두 삭제
 brew uninstall [패키지명]   # 특정 패키지 삭제
 ```
 
-## 7. uninstall Homebrew
+## 7. Homebrew 삭제
 Homebrew를 제거하기 위해 터미널에서 아래 명령어를 실행합니다.
 
 ```bash
