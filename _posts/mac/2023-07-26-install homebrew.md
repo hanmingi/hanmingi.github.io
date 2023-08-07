@@ -1,5 +1,5 @@
 ---
-title: "[For MAC] homebrew 설치하기"
+title: "[mac OS] homebrew 설치 및 사용하기"
 categories:
     - mac
 
@@ -11,7 +11,7 @@ tags:
 
 toc: true
 toc_sticky: true
-toc_label: "For MAC"
+toc_label: "macOS"
 toc_icon: "tasks"
 ---
 
@@ -39,7 +39,7 @@ xcode-select --install
 
 터미널을 열고 아래 명령어를 실행하여 Homebrew를 설치합니다.
 
-```bash
+```bashㅌ
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
 ```
 
