@@ -1,5 +1,5 @@
 ---
-title: "[mac OS] Java 설치하기 [zsh] (AdoptOpenJDK)"
+title: "[mac OS] Java 설치하기"
 categories:
     - mac
 
@@ -15,10 +15,10 @@ toc_label: "macOS"
 toc_icon: "tasks"
 ---
 
-📌 작성자 개발 환경 Mac M1 PRO
+📌 작성자 개발 환경 Mac M1 PRO / ZSH
 {: .notice--primary}
 
-# 맥북에서 Homebrew를 통한 AdoptOpenJDK 8 설치 가이드 [zsh]
+# 맥북에서 Homebrew를 통한 AdoptOpenJDK 8 설치 가이드
 
 이 가이드는 맥북(Mac) 운영체제에 Homebrew를 사용하여 AdoptOpenJDK 8을 설치하는 방법을 설명합니다. 
 
