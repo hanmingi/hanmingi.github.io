@@ -15,8 +15,8 @@ sidebar-category:
         url:  "/algorithm"
       - title: "Spring"
         url:  "/spring"
-      - title: "Spring Boot"
-        url:  "/springboot"
+      - title: "SpringBoot"
+        url:  "/SpringBoot"
 
   - title: "C.S"
     children:

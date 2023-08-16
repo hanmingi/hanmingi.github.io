@@ -1,11 +1,11 @@
 ---
 title: "Spring boot"
 layout: archive
-permalink: /springboot
+permalink: /SpringBoot
 sidebar:
     nav: "sidebar-category"
 ---
 
-{% assign posts = site.categories.springboot %}
+{% assign posts = site.categories.SpringBoot %}
 {% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
 
