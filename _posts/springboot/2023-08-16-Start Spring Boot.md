@@ -59,6 +59,5 @@ Spring Initializr는 Spring Boot 기반의 프로젝트를 쉽게 생성할 수 
 
 <img width="1509" alt="스크린샷 2023-08-16 11 58 12" src="https://github.com/hanmingi/hanmingi.github.io/assets/22022390/f2597962-8660-4be4-ae4a-d114f1147d0f">
 
-5. GENERATE
-프로젝트 내려받게 되면 알집 형태로 내려받게 되는데 압축을 해제 한 후 인텔리제이에서 프로젝트를 열면 toy project 를 진행할 준비가 완료 되었습니다.
+이후 **Generate** 을 통해 프로젝트 내려받게 되면 알집 형태로 내려받게 되는데 압축을 해제 한 후 인텔리제이에서 프로젝트를 열면 toy project 를 진행할 준비가 완료 되었습니다.
 
